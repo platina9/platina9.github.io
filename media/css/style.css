@@ -108,7 +108,7 @@ background-color:#3a87ad;
 
 .paginator {
 font: 14px;
-color: black;
+color: #07AFDE;
 margin: 20px 0;
 line-height: 150%;
 display: block;
@@ -121,12 +121,12 @@ text-decoration: none;
 }
 
 .paginator .current-page {
-color: #07AFDE;
+color: #15C798;
 text-decoration: underline;
 }
 
 .paginator a:hover{
-color: #BCE5EE;
+color: #BFEBDC;
 
 }
 
