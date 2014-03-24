@@ -5,4 +5,4 @@ comments: yes
 thread: 616
 ---
 
-Please input your text here.
+来了，就留下你的足迹吧。
