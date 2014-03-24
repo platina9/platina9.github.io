@@ -26,7 +26,7 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #07AFDE; }
-a:hover   { color: #BCE5EE; }
+a:hover   { color: #BFEBDC; }
 a:visited { color: #07AFDE; }
 
 /*****************************************************************************/
@@ -56,11 +56,11 @@ a:visited { color: #07AFDE; }
 /*****************************************************************************/
 
 .site {
-  font-size: 300%;
+  font-size: 115%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
- ;
+  line-height: 1.5em;
 }
 
 .header a {
@@ -73,11 +73,11 @@ a:visited { color: #07AFDE; }
 }
 
 .title a {
-  color: #a00;
+  color: #15C798;
 }
 
 .title a:hover {
-  color: #000;
+  color: #BFEBDC;
 }
 
 .header a.extra {
@@ -107,7 +107,7 @@ a:visited { color: #07AFDE; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #E02F81;
 }
 
 .footer .rss {
