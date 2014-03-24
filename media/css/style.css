@@ -118,6 +118,7 @@ display: block;
 padding: 0 4px;
 margin: 2px;
 text-decoration: none;
+color: #07AFDE;
 
 }
 
@@ -127,7 +128,7 @@ text-decoration: underline;
 }
 
 .paginator a:hover{
-color: #BFEBDC;
+color: #BCE5EE;
 
 }
 
