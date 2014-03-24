@@ -60,12 +60,12 @@ embed,object,iframe{display:block;margin:4px auto;}
 footer{
 text-align:center;
 display:block;
-border-top: 1px dashed #CCC;
+border-top: 1px  #CCC;
 }
 
 footer small {
 font-size: 13px;
-color: #AAA;
+color: #F2C5D6;
 }
 
 footer a {
