@@ -117,16 +117,16 @@ display: block;
 .paginator a,.paginator span{
 padding: 0 4px;
 margin: 2px;
-text-decoration: underline;
+text-decoration: none;
 }
 
 .paginator .current-page {
 color: #07AFDE;
-
+text-decoration: underline;
 }
 
 .paginator a:hover{
 color: #BCE5EE;
-;
+
 }
 
