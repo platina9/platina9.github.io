@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
-h1 { color: #15C798; }
+h1 { font-color: #15C798; }
 p { margin: 1em 0; }
 
 a         { color: #07AFDE; }
@@ -71,7 +71,6 @@ a:visited { color: #07AFDE; }
 .title {
   display: inline-block;
   margin-bottom: 2em;
-  font-color: #15C798;
 }
 
 .title a {
