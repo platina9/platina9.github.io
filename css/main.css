@@ -70,6 +70,7 @@ a:visited { color: #07AFDE; }
 .title {
   display: inline-block;
   margin-bottom: 2em;
+  font-color: #15C798;
 }
 
 .title a {
