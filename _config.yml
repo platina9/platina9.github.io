@@ -1,13 +1,7 @@
-markdown: rdiscount
-permalink: /:title/
-url: http://http://platina9.github.io
-name: 范我聞
-author: 范我聞
-qq: 1420455572
-email: vanplatina@gmail.com
-weibo: 1725177444
-github: platina9
-pygments: true
-safe: true
-paginate: 20
-about: "范我聞，九零後，建築繫學生。"
+name: Stephan Max's Blog
+author: Stephan Max
+description: Personal blog of Stephan Max
+
+excerpt_separator: "\n\n"
+permalink: /:categories/:title.html
+highlighter: pygments

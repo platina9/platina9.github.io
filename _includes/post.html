@@ -1,0 +1,29 @@
+{% if page.category %}
+    {% assign p = page %}
+    {% assign c = content %}
+{% else %}
+    {% assign p = post %}
+    {% assign c = p.excerpt %}
+{% endif %}
+
+<article class="post {{ p.category | downcase | remove: ' ' }}">
+    
+    <header class="post-header">
+        <h1 class="post-title">
+            <a href="{{ post.url | remove: '.html' }}">{{ p.title }}</a>
+        </h1>
+        <h2 class="post-meta">
+            <time class="post-date" datetime="{{ p.date | date:'%Y-%m-%d' }}">
+                {{ p.date | date:'%d %b %y' }}
+            </time>
+            <span class="post-cat">
+                &mdash; <span>{{ p.category }}</span>
+            </span>
+        </h2>
+    </header>
+
+    <div class="post-content">
+        {{ c }}
+    </div>
+
+</article>
