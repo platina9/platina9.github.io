@@ -1,6 +1,6 @@
-name: Stephan Max's Blog
-author: Stephan Max
-description: Personal blog of Stephan Max
+name: Wowen Fan's Blog
+author: Wowen Fan
+description: Personal blog of Wowen Fan
 
 excerpt_separator: "\n\n"
 permalink: /:categories/:title.html
